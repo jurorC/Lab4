@@ -1,0 +1,9 @@
+<swiper autoplay interval="2000" circular indicator-dots indicator-color="#FFFFF0" indicator-active-color="#87CEEB">
+      <swiper-item><image mode="widthFix" src="https://obohe.com/i/2021/10/07/f8lip1.jpg"/></swiper-item>
+      <swiper-item><image mode="widthFix" src="https://obohe.com/i/2021/10/07/f8lk4e.jpg"/></swiper-item>
+      <swiper-item><image mode="widthFix" src="https://obohe.com/i/2021/10/07/f8lmp7.jpg"/></swiper-item>
+</swiper>
+<viwe class="Setting" bindtap="setting">设置</viwe>
+<button class="singlePlayer" bindtap="Single"  style="height: 70px;" > 单人游戏 </button>
+<button class="multiPlayer" bindtap="Multi"  style="height: 70px;" > 多人游戏 </button>
+<button class="feedB" bindtap="feedBcak" style="height: 70px;" > 意见反馈 </button>

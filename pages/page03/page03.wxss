@@ -1,0 +1,57 @@
+/* pages/page03/page03.wxss */
+page{
+  background: url(https://obohe.com/i/2021/10/07/f1gai8.jpg);
+}
+.Back{
+  background-color: rgba(255, 230, 0, 0.829);
+  width:100px;
+  height: 40px;
+  text-align: center;
+  line-height: 40px;
+  font-size: 18px;
+  font-weight: 10px;
+  margin-top: 100px;
+  margin-left: 15px;
+  border-radius: 15px;
+}
+.pos{
+  text-align: center;
+  line-height: 200px;
+  font-size: 35px;
+  margin-top: 50px;
+  color: rgba(253, 186, 1, 0.836);
+}
+.input1{
+  margin-top: 5px;
+  height: 60px;
+  color:aliceblue;
+  border:3px solid black;
+  border-radius: 10px;
+  font-size: 30px;
+}
+.setRoom{
+  background-color: rgba(68, 66, 63, 0.808);
+  height: 80px;
+  width: 240px;
+  margin-left: 60px;
+  text-align: center;
+  line-height: 80px;
+  color: white;
+  border:3px solid white;
+  border-radius: 15px;
+  font-size: 30px;
+  margin-top: 30px;
+}
+.addRoom{
+  background-color: rgba(68, 66, 63, 0.808);
+  height: 80px;
+  width: 240px;
+  margin-left: 60px;
+  text-align: center;
+  line-height: 80px;
+  color: white;
+  border:3px solid white;
+  border-radius: 15px;
+  font-size: 30px;
+  margin-top: 30px; 
+} 

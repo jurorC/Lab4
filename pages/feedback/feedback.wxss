@@ -1,0 +1,8 @@
+/* pages/feedback/feedback.wxss */
+page{
+  background: url(https://obohe.com/i/2021/10/07/f1gai8.jpg);
+}
+.feedBack{
+  margin-top: 350px;
+  justify-content: center;
+}

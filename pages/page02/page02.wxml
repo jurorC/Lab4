@@ -1,0 +1,5 @@
+<!--pages/page02/page02.wxml-->
+<view class="Back" bindtap="back"> 返回 </view>
+<image class="dice" src="https://s3.bmp.ovh/imgs/2021/10/9192c47751eb0d38.gif"></image>
+<view class="Shake" bindtap="shake"> 前往摇骰 </view>
+<view class="Rule" bindtap="rule"> 规则查看 </view>

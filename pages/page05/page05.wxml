@@ -1,0 +1,9 @@
+<!--pages/page05/page05.wxml-->
+<view class="pos"> 请输入房间号 </view>
+<view class="input-view">
+   <form bindsubmit="onSubmit">
+    <input class="input1" type="number" maxlength="12" value="例如：123456"></input>
+   </form>
+</view>
+<view class="addRoom"> 加入 </view>
+<view class="Back" bindtap="back"> 返回 </view>

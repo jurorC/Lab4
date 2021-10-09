@@ -1,0 +1,34 @@
+/* pages/backgroundAudio/backgroundAudio.wxss */
+page{
+  background: url(https://obohe.com/i/2021/10/07/f1gai8.jpg);
+}
+.title{
+  color: aliceblue;
+  font-size: 36px;
+  font-weight: 10px;
+  text-align: center;
+}
+.tc{
+  color: rgb(251, 255, 0);
+  font-size: 21px;
+  text-align: center;
+  margin-top: 45px;
+}
+.btn-area{
+  color: aliceblue;
+  font-size: 30px;
+  text-align: center;
+  margin-top: 60px;
+}
+.Back{
+  background-color: rgba(255, 230, 0, 0.829);
+  width:120px;
+  height: 60px;
+  text-align: center;
+  line-height: 60px;
+  font-size: 30px;
+  font-weight: 10px;
+  margin-top: 110px;
+  margin-left: 30px;
+  border-radius: 15px;
+}

@@ -1,0 +1,17 @@
+<!--pages/backgroundAudio/backgroundAudio.wxml-->
+
+<view class='container'>
+  <view class='page-body'>
+    <view class='demo-box'>
+        <view class="title">点击下方按钮开启或关闭背景音乐</view>
+          <view class="tc">注意：离开当前页面后背景音乐将保持播放，只有完全关闭小程序才停止（点击右上角胶囊按钮的关闭仍然播放）</view>
+          <view class="btn-area">
+          设置音乐
+          <text wx:if="{{switchStatus}}">开启</text>
+          <text wx:else>关闭</text>
+          <switch bindchange="switchChange" checked />
+           </view>
+    </view>
+  </view>
+</view>
+<view class="Back" bindtap="back"> 返回 </view>

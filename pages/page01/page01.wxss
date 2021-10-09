@@ -1,0 +1,42 @@
+/* pages/page01/page01.wxss */
+swiper{
+  width: 100%;
+  height: calc(100vw * 572 / 900);
+}
+image{
+  width: 100%;
+}
+page{
+  background: url(https://obohe.com/i/2021/10/07/f1gai8.jpg);
+}
+.Setting{
+    display: flex;
+    font-size: 20px;
+    width: 100px;
+    height: 40px;
+    line-height: 40px;
+    border-radius: 12px;
+    justify-content: center;
+    font-weight: 5px;
+    margin-top: 15px;
+    margin-left: 15px;
+    background-color: rgba(255, 208, 0, 0.863);
+}
+.singlePlayer{
+  margin-top: 60px;
+}
+.multiPlayer{
+  margin-top: 60px;
+}
+.feedB{
+  margin-top: 60px;
+}
+button{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 15px;
+  font-size: large;
+  background-color: rgba(53, 46, 46, 0.849);
+  color: aliceblue; 
+}

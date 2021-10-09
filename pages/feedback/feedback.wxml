@@ -1,0 +1,5 @@
+<!--pages/feedback/feedback.wxml-->
+<view class="feedBack">
+   <button open-type="feedback" type="primary"> 意见反馈
+   </button>
+</view>
