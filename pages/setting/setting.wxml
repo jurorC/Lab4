@@ -1,0 +1,22 @@
+<!--pages/setting/setting.wxml-->
+<view class="tui-content">
+  <view class="tui-slider-head">音量</view>
+  <view class="tui-slider-box">
+    <slider bindchange="changeSlider2" value="{{slider2}}" show-value/>
+  </view>
+</view>
+<view class="tui-content">
+  <view class="tui-slider-head">震动</view>
+  <view class="tui-slider-box">
+    <slider bindchange="changeSlider3" value="{{slider3}}" show-value/>
+  </view>
+</view>
+<view class="tui-content">
+  <view class="tui-slider-head">音效</view>
+  <view class="tui-slider-box">
+    <slider bindchange="changeSlider4" value="{{slider4}}" show-value/>
+  </view>
+</view>
+<view class="music" bindtap="music"> 背景音乐 </view>
+<view class="Back" bindtap="back"> 返回 </view>
+

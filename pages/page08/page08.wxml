@@ -1,0 +1,16 @@
+<!--pages/page08/page08.wxml-->
+<view class='top'>{{txt}}</view>
+<view class='point1'>
+ <image src='{{one_img}}'></image>
+ <image src='{{two_img}}'></image>
+</view>
+<view class='point2'>
+ <image src='{{three_img}}'></image>
+ <image src='{{four_img}}'></image>
+</view>
+<view class='point3'>
+ <image src='{{five_img}}'></image>
+ <image src='{{six_img}}'></image>
+</view>
+<view class='btn' bindtap='enter'>{{msg}}</view>
+<view class="Back" bindtap="back"> 返回 </view>

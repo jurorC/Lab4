@@ -1,0 +1,45 @@
+/* pages/setting/setting.wxss */
+page{
+  background: url(https://obohe.com/i/2021/10/07/f1gai8.jpg);
+}
+.tui-slider-box{
+  height: 80rpx;
+  line-height: 80rpx;
+  margin-left: 10px;
+  font-size: 30px;
+  color: rgba(255, 255, 255, 0.801);
+}
+.tui-slider-head{
+  height: 80rpx;
+  line-height: 80rpx;
+  margin-left: 25px;
+  margin-top: 80px;
+  font-size: 30px;
+  font-weight: 10px;
+  color: rgba(255, 217, 0, 0.801);
+}
+.music{
+  background-color: rgb(255, 196, 1);
+  font-size: 18px;
+  height: 60px;
+  font-size: 25px;
+  font-weight: 30px;
+  line-height: 60px;
+  text-align: center;
+  width: 300px;
+  border-radius: 20px;
+  margin-left: 30px;
+  margin-top: 50px;
+}
+.Back{
+  background-color: rgba(235, 198, 35, 0.829);
+  width:120px;
+  height: 40px;
+  text-align: center;
+  line-height: 40px;
+  font-size: 20px;
+  font-weight: 10px;
+  margin-top: 35px;
+  margin-left: 30px;
+  border-radius: 15px;
+}
